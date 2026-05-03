@@ -31,18 +31,6 @@ The platform follows an **Event-Driven Architecture** to handle high-volume medi
 6. **Update**: The worker updates the database status and stores the thumbnail in S3.
 7. **Retrieval**: The user retrieves the list of media and processed results via the API.
 
-```mermaid
-graph LR
-    A[User/Client] -->|Upload Media| B(Flask API)
-    B -->|Store File| C[Amazon S3]
-    B -->|Save Metadata| D[Amazon DynamoDB]
-    B -->|Send Message| E[Amazon SQS]
-    E -->|Trigger| F[AWS Lambda Worker]
-    F -->|Process Media| F
-    F -->|Store Thumbnail| C
-    F -->|Update Status| D
-    A -->|Fetch List| B
-```
 
 ## 🛠️ Technology Stack
 
