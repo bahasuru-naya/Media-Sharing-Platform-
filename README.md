@@ -5,7 +5,7 @@
 
 <img width="1912" height="861" alt="1" src="https://github.com/user-attachments/assets/23df2f9c-a3cd-48c3-8146-a7bcb6679ea0" />
 
-A robust, event-driven distributed system designed for efficient media uploading, storage, and asynchronous processing. This project was developed as part of the **CS4092 - Distributed Systems Mini Project** at General Sir John Kotelawala Defence University.
+A robust, event-driven distributed system designed for efficient media uploading, storage, and asynchronous processing. 
 
 ## 🚀 Overview
 
