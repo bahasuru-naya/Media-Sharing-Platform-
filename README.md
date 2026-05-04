@@ -101,7 +101,7 @@ For a detailed technical breakdown of the backend implementation, please see the
    - Frontend: `http://localhost:8080`
    - Backend API: `http://localhost:5000`
 
-## 👥 Team Members (Group A)
+## 👥 Team Members 
 
 | Name | Role |
 | :--- | :--- |
