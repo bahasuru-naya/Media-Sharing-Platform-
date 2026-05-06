@@ -1,8 +1,5 @@
 # Media Sharing Platform
 
-[![Project Status: Active](https://img.shields.io/badge/Project%20Status-Active-brightgreen.svg)](https://github.com/bahasuru-naya/Media-Sharing-Platform-)
-[![Distributed Systems](https://img.shields.io/badge/Course-CS4092%20Distributed%20Systems-blue.svg)](https://kdu.ac.lk/)
-
 <img width="1912" height="861" alt="1" src="https://github.com/user-attachments/assets/23df2f9c-a3cd-48c3-8146-a7bcb6679ea0" />
 
 A robust, event-driven distributed system designed for efficient media uploading, storage, and asynchronous processing. 
